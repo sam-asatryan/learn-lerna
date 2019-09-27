@@ -1,5 +1,8 @@
 {
   "name": "lib_3",
   "version": "1.0.0",
-  "author": "Sam <samvel.asatryan@fouraitch.com>"
+  "author": "Sam <samvel.asatryan@fouraitch.com>",
+  "dependencies": {
+    "jquery-viewer": "^1.0.0"
+  }
 }
