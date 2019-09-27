@@ -1,0 +1,15 @@
+{
+  "name": "learn-lerna",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "repository": "https://github.com/sam-asatryan/learn-lerna.git",
+  "author": "Sam <samvel.asatryan@fouraitch.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lerna": "^3.16.4",
+    "lib_1": "1.0.0",
+    "lib_2": "1.0.0",
+    "lib_3": "1.0.0"
+  }
+}
