@@ -4,5 +4,8 @@
   "author": "Sam <samvel.asatryan@fouraitch.com>",
   "dependencies": {
     "jquery-viewer": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo testing lib 3"
   }
 }

@@ -4,5 +4,8 @@
   "author": "Sam <samvel.asatryan@fouraitch.com>",
   "dependencies": {
     "jquery-ui": "^1.12.1"
+  },
+  "scripts": {
+    "test": "echo testing lib 2"
   }
 }
