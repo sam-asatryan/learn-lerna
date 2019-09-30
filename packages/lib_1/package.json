@@ -4,5 +4,8 @@
   "author": "Sam <samvel.asatryan@fouraitch.com>",
   "dependencies": {
     "jquery": "^3.4.1"
+  },
+  "scripts": {
+    "new-version": "lerna version --conventional-commits --yes"
   }
 }
