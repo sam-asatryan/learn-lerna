@@ -6,6 +6,7 @@
     "jquery": "^3.4.1"
   },
   "scripts": {
+    "postversion": "echo \"lib_1 is updated\"",
     "test": "echo testing lib 1"
   }
 }

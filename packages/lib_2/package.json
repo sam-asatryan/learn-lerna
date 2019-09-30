@@ -6,6 +6,7 @@
     "jquery-ui": "^1.12.1"
   },
   "scripts": {
+    "postversion": "echo \"lib_2 is updated\"",
     "test": "echo testing lib 2"
   }
 }

@@ -13,7 +13,7 @@
     "packages/*"
   ],
   "scripts": {
-    "new-version": "lerna version",
+    "new-version": "lerna version ",
     "test": "lerna run test --scope={lib_1,lib_2}"
   }
 }

@@ -6,6 +6,7 @@
     "jquery-viewer": "^1.0.0"
   },
   "scripts": {
+    "postversion": "echo \"lib_3 is updated\"",
     "test": "echo testing lib 3"
   }
 }
