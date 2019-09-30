@@ -9,6 +9,9 @@
   "dependencies": {
     "lerna": "^3.16.4"
   },
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
     "new-version": "lerna version --conventional-commits --yes"
   }
