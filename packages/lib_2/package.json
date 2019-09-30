@@ -1,6 +1,6 @@
 {
   "name": "lib_2",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "author": "Sam <samvel.asatryan@fouraitch.com>",
   "dependencies": {
     "jquery-ui": "^1.12.1"
