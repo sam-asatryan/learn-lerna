@@ -6,6 +6,6 @@
     "jquery": "^3.4.1"
   },
   "scripts": {
-    "new-version": "lerna version --conventional-commits --yes"
+    "new-version": "lerna version --conventional-commits"
   }
 }
