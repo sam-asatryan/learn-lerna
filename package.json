@@ -7,9 +7,9 @@
   "author": "Sam <samvel.asatryan@fouraitch.com>",
   "license": "MIT",
   "dependencies": {
-    "lerna": "^3.16.4",
-    "lib_1": "1.0.0",
-    "lib_2": "1.0.0",
-    "lib_3": "1.0.0"
+    "lerna": "^3.16.4"
+  },
+  "scripts": {
+    "new-version": "lerna version --conventional-commits --yes"
   }
 }
