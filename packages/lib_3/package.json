@@ -1,6 +1,6 @@
 {
   "name": "lib_3",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Sam <samvel.asatryan@fouraitch.com>",
   "dependencies": {
     "jquery-viewer": "^1.0.0"
